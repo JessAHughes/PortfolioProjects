@@ -1,1 +1,1 @@
-# PortfolioProjects
+Here I used the data provided at https://ourworldindata.org/covid-deaths to compare the percentage of deaths, vaccinations, and infected to the total numbers of these around the world. You can view the dashboard here at https://public.tableau.com/app/profile/jesse3846/viz/CovidDashboard_16574902410880/Dashboard1?publish=yes
